@@ -1,0 +1,5 @@
+C:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\bookstore-cli-proj.csproj.AssemblyReference.cache
+C:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\bookstore-cli-proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\bookstore-cli-proj.AssemblyInfoInputs.cache
+C:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\bookstore-cli-proj.AssemblyInfo.cs
+C:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\bookstore-cli-proj.csproj.CoreCompileInputs.cache
