@@ -14,4 +14,4 @@
 - Command line bookstore management interface
 - Implemented using C#, MySQL
 - User is able to view books, add, edit or delete books from MySQL database.
-- This project was used as a way to learn about C# and MySQL.
+- The purpose of this project was to practice C# and MySQL.
