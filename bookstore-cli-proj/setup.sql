@@ -11,7 +11,10 @@ CREATE TABLE books (
 );
 
 INSERT INTO books (title, author, price, qty) 
-VALUES ("LOTR", "JRR Tolkein", 19.99,  100);
+VALUES ("Fahrenheit 451", "Ray Bradbury", 19.99,  100);
 
 INSERT INTO books (title, author, price, qty) 
-VALUES ("The Great Gatsby", "F Scott Fitzgerald", 19.99,  100);   
+VALUES ("The Great Gatsby", "F Scott Fitzgerald", 19.99,  100);
+
+INSERT INTO books (title, author, price, qty) 
+VALUES ("The Grapes of Wrath", "John Steinbeck", 19.99,  100);
