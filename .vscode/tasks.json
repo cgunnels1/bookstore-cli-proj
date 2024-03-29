@@ -7,9 +7,9 @@
                "type": "process",
                "args": [
                     "build",
-                    "${workspaceFolder}/bookstore-cli-proj/bookstore-cli-proj.csproj",
+                    "${workspaceFolder}/bookstore-cli-proj/bookstore-cli-proj.sln",
                     "/property:GenerateFullPaths=true",
-                    "/consoleloggerparameters:NoSummary"
+                    "/consoleloggerparameters:NoSummary;ForceNoAlign"
                ],
                "problemMatcher": "$msCompile"
           },
@@ -19,9 +19,9 @@
                "type": "process",
                "args": [
                     "publish",
-                    "${workspaceFolder}/bookstore-cli-proj/bookstore-cli-proj.csproj",
+                    "${workspaceFolder}/bookstore-cli-proj/bookstore-cli-proj.sln",
                     "/property:GenerateFullPaths=true",
-                    "/consoleloggerparameters:NoSummary"
+                    "/consoleloggerparameters:NoSummary;ForceNoAlign"
                ],
                "problemMatcher": "$msCompile"
           },
@@ -33,7 +33,7 @@
                     "watch",
                     "run",
                     "--project",
-                    "${workspaceFolder}/bookstore-cli-proj/bookstore-cli-proj.csproj"
+                    "${workspaceFolder}/bookstore-cli-proj/bookstore-cli-proj.sln"
                ],
                "problemMatcher": "$msCompile"
           }

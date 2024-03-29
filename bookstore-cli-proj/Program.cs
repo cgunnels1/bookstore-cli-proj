@@ -5,7 +5,7 @@
           static void Main(string[] args)
           {
                Bookstore myStore = new Bookstore();
-               myStore.setupDatabase();
+               myStore.SetupDatabase();
                myStore.OpeningDay();
           }
      }

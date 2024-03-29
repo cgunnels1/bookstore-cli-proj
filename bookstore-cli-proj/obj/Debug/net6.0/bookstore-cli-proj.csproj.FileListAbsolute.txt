@@ -31,9 +31,10 @@ c:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\bin\Debug\net6.0\r
 c:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 c:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 c:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-c:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\bookstore-cli-proj.csproj.CopyComplete
 c:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\bookstore-cli-proj.dll
 c:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\refint\bookstore-cli-proj.dll
 c:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\bookstore-cli-proj.pdb
 c:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\bookstore-cli-proj.genruntimeconfig.cache
 c:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\ref\bookstore-cli-proj.dll
+C:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\bookstore-cli-proj.sourcelink.json
+C:\Users\clayt\dev\proj\bookstore-cli-proj\bookstore-cli-proj\obj\Debug\net6.0\bookstor.E1EC9D40.Up2Date
